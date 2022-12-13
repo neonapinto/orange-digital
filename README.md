@@ -4,5 +4,5 @@ A simple weather app reading data from the json file to display based on user in
 
 # Palindrome
 
-Two codes comaparison on which function has better efficiency.
+Two function comaparison on which function has better efficiency.
 
